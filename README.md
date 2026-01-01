@@ -8,7 +8,7 @@
 
 This is a project developed by team 22 of SP24 CSE 110.
 
-### [Link to our Dev Journal](https://cse110-sp24-group22.github.io/cse110-sp24-group22/src/html/home.html)
+### [Link to our Dev Journal](https://cse110-sp24-group22.github.io/ProjectGarlic/src/html/home.html)
 
 ## Project Description
 
